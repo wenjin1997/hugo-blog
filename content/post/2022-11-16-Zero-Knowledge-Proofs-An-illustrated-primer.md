@@ -5,8 +5,8 @@ subtitle:   ""
 # excerpt: "Zero Knowledge Proofs:An illustrated primer"
 # description: "Zero Knowledge Proofs:An illustrated primer"
 date:       2022-11-16
-author:     "水水獭"
-# image: "/img/2018-06-04-introducing-the-istio-v1alpha3-routing-api/background.jpg"
+author:     "谢文进"
+image: "/img/2022-11-16-Zero-Knowledge-Proofs-An-illustrated-primer/background.jpg"
 published: true 
 tags:
     - ZKP
@@ -154,7 +154,7 @@ We’ve already discussed the argument for completeness. The protocol will event
 
 参考BIU课程，完备性和可靠性的严格定义。
 
-![interactive-proof](/img/zkp-an/interactive-proof.png)
+![interactive-proof](/img/2022-11-16-Zero-Knowledge-Proofs-An-illustrated-primer/interactive-proof.png)
 
 The hard part here is the ‘zero knowledgeness’ property. To do this, we need to conduct a very strange thought experiment.
 
@@ -186,7 +186,7 @@ This last point is the most important. In fact, from my perspective, being unawa
 
 BIU课程中对HVZK的定义：
 
-![HVZK](/img/zkp-an/HVZK.png)
+![HVZK](/static/img/2022-11-16-Zero-Knowledge-Proofs-An-illustrated-primer/HVZK.png)
 
 ### What the hell is the point of this?
 

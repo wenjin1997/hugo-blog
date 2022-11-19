@@ -4,10 +4,10 @@ layout:     post
 title:      "欧拉方法、隐式欧拉方法"
 # subtitle:   "欧拉方法、隐式欧拉方法"
 # excerpt: "欧拉方法、隐式欧拉方法"
-author:     "水水獭"
+author:     "谢文进"
 date:       2021-03-11
 # description: "欧拉方法、隐式欧拉方法"
-# image: "/img/2018-06-02-istio08/background.jpg"
+image: "/img/2021-03-11-eluer-method/background.jpg"
 published: true 
 tags:
      - 欧拉方法
@@ -15,7 +15,7 @@ tags:
      - 数值分析
      - 微分方程数值解 
 
-categories: [ Tech ]
+categories: [ Math ]
 URL: "/2021/03/11/euler-method/"
 ---
 
@@ -110,16 +110,8 @@ plt.show()
 ```
 ## 结果分析
 当取$h=0.01$时，此时欧拉方法的误差为0.02631578947368396，隐式欧拉方法的误差为0.023809523809523836，结果如下图所示：
-<center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://i.loli.net/2021/03/11/pBG2osfcJ3tlvWZ.png">
-    <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">结果图</div>
-</center>
+
+![result.png](https://i.loli.net/2021/03/11/pBG2osfcJ3tlvWZ.png)
 
 当取不同$h$，得到的误差如下表所示：
 

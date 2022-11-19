@@ -4,10 +4,10 @@ layout:     post
 title:      "Java并发编程的艺术笔记"
 # subtitle:   "Java并发编程的艺术笔记"
 # excerpt: "Java并发编程的艺术笔记"
-author:     "水水獭"
+author:     "谢文进"
 date:       2022-03-28
 # description: "Java并发编程的艺术笔记"
-# image: "/img/2018-06-02-istio08/background.jpg"
+image: "/img/2022-03-28-The-Art-of-Java-Concurrency-Programming/background.jpg"
 published: true 
 tags:
     - Java
@@ -475,7 +475,7 @@ Java程序天生就是多线程程序，因为执行main()方法的是一个名�
 
 ### 4.1.4 线程的状态
 
-![image-20220329155107243](/LICENSE.png)
+![LICENSE](/img/2022-03-28-The-Art-of-Java-Concurrency-Programming/LICENSE.png)
 
 线程在执行Runnable的`run()`方法之后将会进入终止状态。
 
