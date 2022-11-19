@@ -2,6 +2,7 @@
 layout:     post
 
 title:      "数值求解热传导方程"
+description: "用数值的方法求解热传导方程，使用最简显格式进行推导。"
 author:     "谢文进"
 date:       2021-05-24
 # image: "/img/2021-03-11-eluer-method/background.jpg"
@@ -27,8 +28,6 @@ $$
         u(1,t)  = 0 \quad 0 \le t \le 0.03
     \end{cases}
 $$
-
-<!--more-->
 
 该方程的精确解为$u(t,x)=e^{-(4\pi)^2t}\sin (4 \pi x),0\le t \le 0.03, 0 \le x \le 1.$
 

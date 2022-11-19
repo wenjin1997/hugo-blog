@@ -7,7 +7,7 @@ subtitle:   ""
 date:       2022-11-16
 author:     "谢文进"
 image: "/img/2022-11-16-Zero-Knowledge-Proofs-An-illustrated-primer/background.jpg"
-published: true 
+published: false 
 tags:
     - ZKP
     - 笔记 
