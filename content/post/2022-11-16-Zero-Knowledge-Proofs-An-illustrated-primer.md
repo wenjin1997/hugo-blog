@@ -16,7 +16,7 @@ categories: [ ZKP ]
 URL: "/2022/11/16/Zero-Knowledge-Proofs-An-illustrated-primer/"
 ---
 
-原文链接：[Zero Knowledge Proofs: An illustrated primer](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/)
+原文链接：[Zero Knowledge Proofs: An illustrated primer](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/)。本篇文章通过图三色问题来介绍什么是零知识证明。
 
 One of the best things about modern cryptography （密码学） is the beautiful terminology （术语）. You could start any number of punk bands（朋克乐队） (or [Tumblrs](http://www.explainxkcd.com/wiki/index.php/1025:_Tumblr)) named after cryptography terms like ‘hard-core predicate’, ‘trapdoor function’, *‘* or ‘impossible differential cryptanalysis （密码分析）’. And of course, I haven’t even mentioned the one term that surpasses all of these. That term is ‘*zero knowledge*‘.
 
