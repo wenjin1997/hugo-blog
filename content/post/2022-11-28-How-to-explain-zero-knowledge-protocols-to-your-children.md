@@ -6,7 +6,7 @@ title:      "How to explain zero-knowledge protocols to your children"
 description: "文章《How to explain zero-knowledge protocols to your children》的笔记，通过阿里巴巴与大盗的故事解释什么是零知识证明。"
 date:       2022-11-28
 author:     "谢文进"
-# image: "/img/2022-11-21-Dan-Boneh-Cryptography-Week1/background.jpg"
+image: "/img/2022-11-28-How-to-explain-zero-knowledge-protocols-to-your-children/background.jpg"
 published: true
 tags:
     - ZKP
