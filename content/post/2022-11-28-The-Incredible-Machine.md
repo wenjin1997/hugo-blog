@@ -6,7 +6,7 @@ title:      "The Incredible Machine"
 description: "文章《The Incredible Machine》的笔记，通过数独的故事解释什么是零知识证明。"
 date:       2022-11-28
 author:     "谢文进"
-# image: "/img/2022-11-21-Dan-Boneh-Cryptography-Week1/background.jpg"
+image: "/img/2022-11-28-The-Incredible-Machine/nicolas-houdayer-3h_uBlWlobU-unsplash.jpg"
 published: true
 tags:
     - ZKP
